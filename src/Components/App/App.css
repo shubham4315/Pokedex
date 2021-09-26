@@ -1,0 +1,13 @@
+body{
+    background: #dbf6e9;
+    color: #162447;
+}
+
+.app{
+    text-align: center;
+}
+
+h1{
+    font-size: 57px;
+    font-family: 'Press Start 2P', cursive;
+}
